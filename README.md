@@ -7,8 +7,7 @@ Profesyonel Ses Tanıma Sistemi - Mikrofonla alınan sesi veya yüklenen ses dos
 ---
 
 ## 🚀 Kullanım
-
-**MetinAsistani.exe** dosyasına çift tıklayın. Uygulama açılacaktır.
+exe'ye çevirin.
 
 > Not: İlk açılışta birkaç saniye bekleyebilir.
 
